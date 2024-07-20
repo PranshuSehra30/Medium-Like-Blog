@@ -1,5 +1,5 @@
-import { memo, useEffect, useState } from "react";
-import { toast } from "react-toastify";
+import { memo } from "react";
+
 import "react-toastify/dist/ReactToastify.css";
 
 const Loading = () => {
