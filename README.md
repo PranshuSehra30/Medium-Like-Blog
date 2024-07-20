@@ -1,7 +1,7 @@
 ﻿# Medium-Like-Blog
-# Medium Blog
 
-This project is a blog website similar to Medium, built with React for the frontend and Cloudflare Workers for the backend, using TypeScript, Prisma, PostgreSQL, and JWT for authentication.
+
+This  is a blog website similar to Medium, built with React for the frontend and Cloudflare Workers for the backend, using TypeScript, Prisma, PostgreSQL, and JWT for authentication.
 
 ## Table of Contents
 
