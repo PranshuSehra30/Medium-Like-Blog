@@ -1,7 +1,7 @@
 import { ChangeEvent, useCallback, useState } from "react";
 import { Appbar } from "../components/Appbar";
 import axios from "axios";
-import { BACKEND_URL } from "../config";
+import { BACKEND_URL } from "./config";
 import { useNavigate } from "react-router-dom";
 import { toast } from "react-toastify";
 import { useRecoilRefresher_UNSTABLE } from "recoil";

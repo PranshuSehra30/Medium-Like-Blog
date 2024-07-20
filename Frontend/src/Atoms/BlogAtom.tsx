@@ -1,6 +1,6 @@
 import { atom, selector } from "recoil";
 import axios from "axios";
-import { BACKEND_URL } from "../config";
+import { BACKEND_URL } from "../pages/config";
 
 export const allBlogs = atom({
   key: "all_blogs_atom",

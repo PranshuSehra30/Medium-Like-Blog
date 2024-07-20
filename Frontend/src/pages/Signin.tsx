@@ -3,7 +3,7 @@ import LabeledInput from "../components/LabeledInput";
 import Quote from "../components/Quote";
 import { SigninInput } from "@100xdevs/medium-common";
 import axios from "axios";
-import { BACKEND_URL } from "../config";
+import { BACKEND_URL } from "./config";
 import { toast } from "react-toastify";
 import Loading from "../components/Loading";
 import { IoMdArrowRoundBack } from "react-icons/io";
